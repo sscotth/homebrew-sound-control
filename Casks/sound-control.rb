@@ -1,6 +1,6 @@
 cask 'sound-control' do
-  version '2.0.4'
-  sha256 '576550014b6aadc0c1b1ebbf46440542a8cc713243d3c56af821c7797525e352'
+  version '2.1.0'
+  sha256 '15f5887bb4038bade462e14fc34bde423f99b63e96110f9384007ed89915fcc2'
 
   # staticz.net was verified as official when first introduced to the cask
   url "http://staticz.net/downloads/SoundControlInstaller_#{version}.dmg"
